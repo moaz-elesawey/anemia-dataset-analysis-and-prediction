@@ -1,3 +1,5 @@
 # Anemia Dataset Analysis and Prediction 
 
-# anemia-dataset-analysis-and-prediction
+# Screenshots
+![Demo Screenshot](screenshots/screenshot_1.png)
+![Demo Screenshot](screenshots/screenshot_2.png)
